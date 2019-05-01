@@ -1,5 +1,7 @@
 # ARAN
 
+<img src="https://github.com/Xingrun-Xing/ARAN/blob/master/Figure%202.png"  width=100%/>
+
 This is the implementation of our ARAN. We provide the architectures and pretrained models as above.<br>
 This readme is updating now, and if you need more detailed information, please contact me at 15137162936@163.com.<br> 
 
