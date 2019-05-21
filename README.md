@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Xingrun-Xing/ARAN/blob/master/Figure%202.png"  width=100%/>
 
-This is the implementation of my paper "Image Super-Resolution using Aggregated Residual Transformation Networks with Spatial Attention
+This is the implementation of our paper "Image Super-Resolution using Aggregated Residual Transformation Networks with Spatial Attention
 ". We provide the architectures and pretrained models as above.<br>
 This readme is updating now, and if you need more detailed information, please contact me at 15137162936@163.com or stuxrxing@gmail.com.<br> 
 
